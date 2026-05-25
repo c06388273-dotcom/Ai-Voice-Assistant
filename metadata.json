@@ -1,0 +1,10 @@
+{
+  "name": "AI Voice Assistant",
+  "description": "Powerful real-time AI Voice Assistant with voice synthesis, wake-word detection, emotion understanding, and persistent workspace actions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
